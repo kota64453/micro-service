@@ -95,7 +95,7 @@ A production-ready **Microservices backend** built with Spring Boot and Spring C
 
 | Layer | Technology |
 |-------|-----------|
-| Language | Java 17 |
+| Language | Java 25|
 | Framework | Spring Boot 4.0.6 |
 | Service Discovery | Spring Cloud Netflix Eureka |
 | Database | MongoDB (NoSQL) |
